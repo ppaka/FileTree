@@ -16,7 +16,6 @@ namespace FileTree
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            // 2021 4월 10일 기록
         }
     }
 }
